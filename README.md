@@ -1,4 +1,4 @@
-# The TJ Hub — Website redesign
+# The TJ Hub 
 
 A static, responsive agriculture and consultancy website built using HTML, CSS and vanilla JavaScript. The design adapts the supplied recording's typographic navigation, rolling hover labels and sliding editorial panels to the TJ Hub brand.
 
